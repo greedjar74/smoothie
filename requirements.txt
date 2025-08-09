@@ -1,0 +1,11 @@
+streamlit
+openai
+langchain
+PyPDF2
+langchain-community
+langchain_openai
+beautifulsoup4
+chromadb
+faiss-cpu
+pypdf
+pillow
